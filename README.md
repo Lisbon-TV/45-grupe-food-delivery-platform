@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://lisbon-tv.github.io/45-grupe-food-delivery-platform/
 
-Design: [Food delivery platform]
+Design: [Food delivery platform] (https://github.com/Lisbon-TV/45-grupe-food-delivery-platform/blob/master/img/design.png)
 
 ## 🎯 Project features/goals
 
