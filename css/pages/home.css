@@ -9,3 +9,7 @@
 @import '../components/button.css';
 
 /* CUSTOM CSS */
+
+body {
+    background-color: yellow;
+}
