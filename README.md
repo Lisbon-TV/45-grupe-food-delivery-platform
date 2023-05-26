@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Coming soon
+# Food delivery platform
 
 _website design project_
 
@@ -15,9 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://lisbon-tv.github.io/45-grupe-food-delivery-platform/
 
-Design: Food delivery platform 
-
-image.png
+Design: [Food delivery platform]
 
 ## 🎯 Project features/goals
 
