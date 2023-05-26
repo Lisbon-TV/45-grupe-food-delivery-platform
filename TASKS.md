@@ -1,3 +1,5 @@
+#uzduotys
+
 Projekto struktūra:
 
 
@@ -149,3 +151,11 @@ Darbo eiga:
  - vienas branch'as skirtas "prekių krepšeliui";
 
  - feature/darbiniai branch'ai neturi būti ištrinti, net ir po darbų atlikimo;
+
+ ##dizainas
+
+ https://lisbon-tv.github.io/45-grupe-food-delivery-platform/
+
+ https://github.com/Lisbon-TV/45-grupe-food-delivery-platform/blob/master/img/design.png
+
+
