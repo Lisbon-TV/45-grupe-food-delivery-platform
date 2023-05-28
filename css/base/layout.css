@@ -1,16 +1,57 @@
-.side {
-
+.container {
+    display: block;   
 }
 
-.filters {
+.column-left {
+    min-height: 100vh;
+    width: 20%;
+    float: left;
+    background-color: rgb(68, 209, 135);
+}
 
+.main-content {
+     
+    
+}
+
+.middle-column {
+    width: 60%;
+    float:left;
+    min-height: 100vh;
 }
 
 .products {
-    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
 
+.filters {
+    display: flex;
+    padding: 20px 5px;
+    background-color: yellowgreen;
+}
+
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue; 
+}
+
+.load-more {
+    display: flex;
+    padding-bottom: 20px;
+    background-color: bisque;
 }
 
 .checkout {
-
+    display: flex;
+    flex-direction: column;
 }
+
+.column-right {
+    width: 30%;
+    float: left;
+    min-height: 100vh;
+    background-color: pink;
+}
+
