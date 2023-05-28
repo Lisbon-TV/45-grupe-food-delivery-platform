@@ -9,12 +9,12 @@
     background-color: var(--side-color);
 }
 
-
 .column {
     width: 100%;
 }
+
 .column-right {
-    width: 30%;
+    width: 40%;
     float: right;
     min-height: 100vh;
     background-color: pink;
