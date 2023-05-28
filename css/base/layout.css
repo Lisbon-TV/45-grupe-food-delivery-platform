@@ -1,0 +1,55 @@
+.container {
+    display: block;   
+}
+
+.column-left {
+    min-height: 100vh;
+    width: 20%;
+    float: left;
+    background-color: var(--side-color);
+}
+
+.column {
+    width: 100%;
+}
+
+.column-right {
+    width: 40%;
+    float: right;
+    min-height: 100vh;
+    background-color: pink;
+}
+
+.middle-column {
+    width: 60%;
+    float:left;
+    min-height: 100vh;
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+}
+
+.filters {
+    display: flex;
+    padding: 20px 5px;
+    background-color: yellowgreen;
+}
+
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue; 
+}
+
+.load-more {
+    display: flex;
+    padding-bottom: 20px;
+    background-color: bisque;
+}
+
+.checkout {
+    display: flex;
+    flex-direction: column;
+}
