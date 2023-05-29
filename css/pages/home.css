@@ -4,8 +4,23 @@
 
 /* vendor */
 @import '../components/button.css';
+@import '../vendors/font-awesome.min.css';
+@import '../vendors/ubuntu.css';
 
 /* components */
 @import '../components/button.css';
 
 /* CUSTOM CSS */
+
+.left-links {
+    font-family: Ubuntu;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 80px 40px 0 60px;
+    text-decoration: none;
+    line-height: 25px;
+    font-size: 20px;
+    background-color: var(--side-color);
+
+}
