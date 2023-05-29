@@ -25,3 +25,40 @@
     background-color: var(--side-color);
 
 }
+
+.logo-ln {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 15px;
+    font-size: 15px;
+
+}
+
+.visa-logo {
+    object-fit: contain;
+    height: 1em;
+    width: auto;
+}
+
+.pencil {
+    margin-left: 15px;
+}
+
+.user-ln {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    text-decoration: none;
+    color: grey;
+}
+
+.profile-pic {
+    object-fit: contain;
+
+}
+
+.elipsis {
+    margin: 15px;
+    color: grey;
+}

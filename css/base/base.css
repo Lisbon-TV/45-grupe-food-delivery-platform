@@ -1,4 +1,8 @@
-/*
+/* color view: */
+.none {
+color:
+
+#44d187
 #ffd42e
 #d74369
 #fafafa
@@ -11,10 +15,11 @@
 #e5c1c1
 #e5e58b
 #e5bde5
-*/
+}
 
 :root {
-    --side-color: rgb(68, 209, 135);
+    --side-color: #44d187;
+    --var-white: rgb(250, 250, 250);
     font-family: Ubuntu;
 }
 
